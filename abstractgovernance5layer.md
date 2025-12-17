@@ -311,4 +311,4 @@ Decentralized Consensus & Immutable Memory
 → Immutable memory & recall (optional, falls du Arweave erwähnst).
 
 Original creation on X 
-https://x.com/JawsVibe/statu
+(https://x.com/JawsVibe/status/1999136716473471246?s=20)
